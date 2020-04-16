@@ -37,13 +37,19 @@
 * [2018年实施情况统计报告](http://www.stats.gov.cn/tjsj/zxfb/201912/t20191206_1715998.html)
 
 #### 中华人民共和国，妇女权益相关法律法规文件集合
-中华全国妇女联合会整合的一份涵盖：宪法、婚姻法、妇女权益保障法、未成年保护法、反家庭暴力法、农村土地承包法、及其他相关法律法规文件
-[法规全文](http://www.women.org.cn/col/col732/index.html)
+> 中华全国妇女联合会整合的一份涵盖：宪法、婚姻法、妇女权益保障法、未成年保护法、反家庭暴力法、农村土地承包法、及其他相关法律法规文件
+* [法规全文](http://www.women.org.cn/col/col732/index.html)
 
 #### 妇女研究论丛（1992创刊，双月刊）
-注重中国特色社会主义妇女理论构建，关注国内外妇女/性别研究前沿，及时反映中国社会重大现实问题的研究成果，推动中国妇女学学科建设的发展。
-[刊物官网](http://www.fnyjlc.com/CN/volumn/home.shtml)
-[刊物出版统计表]
+> 注重中国特色社会主义妇女理论构建，关注国内外妇女/性别研究前沿，及时反映中国社会重大现实问题的研究成果，推动中国妇女学学科建设的发展。
+* [刊物官网](http://www.fnyjlc.com/CN/volumn/home.shtml)
+* [刊物出版统计表](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/%E3%80%8A%E5%A6%87%E5%A5%B3%E7%A0%94%E7%A9%B6%E8%AE%BA%E4%B8%9B%E3%80%8B%E5%87%BA%E7%89%88%E7%BB%9F%E8%AE%A1%E6%8A%A5%E8%A1%A8.xlsx)
+
+#### 中国妇女社会地位调查研究数据报告（第一期、第二期、第三期）
+> 由全国妇联和国家统计局分别于1990年、2000年、2010年组织的全国性的大型抽样调查
+* [第一期中国妇女社会地位调查研究数据报告](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/%E7%AC%AC%E4%B8%80%E6%9C%9F%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E7%A4%BE%E4%BC%9A%E5%9C%B0%E4%BD%8D%E8%B0%83%E6%9F%A5%E7%A0%94%E7%A9%B6%E6%95%B0%E6%8D%AE%E6%8A%A5%E5%91%8A.pdf)
+* [第二期中国妇女社会地位调查研究数据报告](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/%E7%AC%AC%E4%BA%8C%E6%9C%9F%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E7%A4%BE%E4%BC%9A%E5%9C%B0%E4%BD%8D%E8%B0%83%E6%9F%A5%E7%A0%94%E7%A9%B6%E6%95%B0%E6%8D%AE%E6%8A%A5%E5%91%8A.pdf)
+* [第三期中国妇女社会地位调查研究数据报告](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/%E7%AC%AC%E4%B8%89%E6%9C%9F%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E7%A4%BE%E4%BC%9A%E5%9C%B0%E4%BD%8D%E8%B0%83%E6%9F%A5%E7%A0%94%E7%A9%B6%E6%95%B0%E6%8D%AE%E6%8A%A5%E5%91%8A.pdf)
 
 
 
