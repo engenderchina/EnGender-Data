@@ -116,7 +116,7 @@
 * [中国宏观数据挖掘分析系统](http://www.tanmer.com/blog/451)
 * [联合国统计司-官网（UNSD）](https://unstats.un.org/home/)
 * [联合国-数据汇集平台（UN Data）](https://data.un.org/)
-* [世界银行](https://data.worldbank.org.cn/)
+* [世界银行（World Bank）](https://data.worldbank.org.cn/)
 * [经济合作与发展组织（OECD）](https://data.oecd.org/)
 
 ### 微观数据
@@ -149,3 +149,44 @@
 > 为了能够了解中国普通大众社会意识的具体情况，马得勇从2012年开始，通过在互联网发布网络问卷的方法对中国网民开展了网络调查。分别在2012、2013、2014、2015和2017年进行了5次较大规模网上调查。此次公开的是2017年数据。
 * [数据库](http://www.cnsda.org/index.php?r=projects/view&id=69084413)
 
+### 网络公开数据
+
+#### 学术期刊数据库
+* [中国知网](http://new.gb.oversea.cnki.net/index/)
+* [Web of Science](http://www.webofknowledge.com/)
+* [谷歌学术](scholar.google.com)
+
+#### 网络论坛数据
+* [知乎](https://www.zhihu.com/)
+* [豆瓣](https://www.douban.com/)
+* [百度贴吧](https://tieba.baidu.com/)
+
+#### 电影数据
+* [爱奇艺指数](https://index.iqiyi.com/)
+* [Bilibili（弹幕、评论）](https://www.bilibili.com/)
+* [IMBD（评分）](https://www.imdb.com/)
+
+#### 新媒体平台指数
+* [百度指数](http://index.baidu.com/v2/index.html#/)
+* [头条指数](https://index.toutiao.com/)
+* [微博指数](https://data.weibo.com/index)
+* [微信指数（需使用微信小程序）]()
+* [清博大数据](http://www.gsdata.cn/)
+
+#### 有声媒体语言资源网
+> 提供各类语言语料库、舆情数据库、在线分词标注系统等资源工具。
+* [官网](http://ling.cuc.edu.cn/views/newsList_resourceTools_page1.html)
+
+#### 司法数据
+* [中国裁判文书网](https://wenshu.court.gov.cn/)
+* [中国司法大数据服务网](http://data.court.gov.cn/pages/index.html)
+
+#### 政界数据
+* [人民网-地方领导资料库](http://ldzl.people.com.cn/dfzlk/front/firstPage.htm)
+* [各国议会联盟（IPU）](https://data.ipu.org/)
+
+#### 业界数据
+* [脉脉](maimai.cn)
+* [LinkedIn](www.linkedin.com)
+* [IT桔子](https://www.itjuzi.com/)
+* [CrunchBase](https://www.crunchbase.com/)
