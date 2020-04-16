@@ -51,5 +51,54 @@
 * [第二期中国妇女社会地位调查研究数据报告](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/%E7%AC%AC%E4%BA%8C%E6%9C%9F%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E7%A4%BE%E4%BC%9A%E5%9C%B0%E4%BD%8D%E8%B0%83%E6%9F%A5%E7%A0%94%E7%A9%B6%E6%95%B0%E6%8D%AE%E6%8A%A5%E5%91%8A.pdf)
 * [第三期中国妇女社会地位调查研究数据报告](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/%E7%AC%AC%E4%B8%89%E6%9C%9F%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E7%A4%BE%E4%BC%9A%E5%9C%B0%E4%BD%8D%E8%B0%83%E6%9F%A5%E7%A0%94%E7%A9%B6%E6%95%B0%E6%8D%AE%E6%8A%A5%E5%91%8A.pdf)
 
+#### 全球性别差距报告（2006-2019）
+> 由世界经济论坛自2006年起，每年发表一次，通过调查和统计的方式，针对健康、教育、政治参与和经济平等四个领域的全球各国性别差距缩小能力进行的综合评估报告
+* [2006全球性别差距报告]()
+* [2007全球性别差距报告]()
+* [2008全球性别差距报告]()
+* [2009全球性别差距报告]()
+* [2010全球性别差距报告]()
+* [2011全球性别差距报告]()
+* [2012全球性别差距报告]()
+* [2013全球性别差距报告]()
+* [2014全球性别差距报告]()
+* [2015全球性别差距报告]()
+* [2016全球性别差距报告]()
+* [2017全球性别差距报告]()
+* [2018全球性别差距报告]()
+* [2019全球性别差距报告]()
+
+#### 打破桎梏：全面参与报告（No Ceilings: The Full Participation Project）
+> 由比尔及梅林达·盖茨基金支持，对两性在卫生、安全、教育、合法权利、经济机会、领导领域的发展情况进行数据可视化的项目，以报告、交互网站、以及原始数据呈现
+* [网站](http://www.noceilings.org/map/)
+* [原始数据](https://github.com/fathominfo/noceilings-data)
+* [中文报告]()
+
+### 社会生活-性别
+
+#### 2018年全国时间利用调查
+> 由国家统计局开展的全国时间利用（个人生理活动、有酬劳动、无酬劳动、个人自由支配活动、学习培训、交通活动、互联网使用）调查，其中涵盖了性别差异的衡量
+* [调查报告](http://www.stats.gov.cn/tjsj/zxfb/201901/t20190125_1646796.html)
+
+#### 各国议会联盟-女性参政情况
+> 由各国议会联盟（IPU）汇总的各国领导数据统计，分析了各国女性参政情况的比例及相关排名
+* [项目官网](https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&structure=any__lower_chamber#map)
+* [报告汇总](http://archive.ipu.org/wmn-e/classif.htm)
+
+#### COVID19疫情防控中的带有性别视角的文章合集（最后更新时间：2020.3）
+* [合集页面](https://data2x.org/resource-center/gender-and-data-resources-related-to-covid-19/)
+
+#### “江山娇”原始微博问题合集（持续更新）
+* [合集页面](http://www.askjiang.com/)
+
+### 性别暴力
+
+#### 联合国-关于男性与暴力的多国研究（(UN Multi-county Study on Men and Violence）
+> 为了解暴力背后的原因，并找到防止暴力更为有效的方法，联合国开发计划署（UNDP）联合国人口基金（UNFPA），联合国妇女署（UN-Women）及地方志愿组织机构在孟加拉国、柬埔寨、中国、印度尼西亚、斯里兰卡和巴布亚新几内亚开展了地区相关定量化研究
+* [项目官网](http://www.partners4prevention.org/about-prevention/research/men-and-violence-study#slide-8-field_images-379)
+
+#### 相关案件媒体报道合集
+> 
+
 
 
