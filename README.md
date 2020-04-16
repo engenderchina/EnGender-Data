@@ -53,26 +53,27 @@
 
 #### 全球性别差距报告（2006-2019）
 > 由世界经济论坛自2006年起，每年发表一次，通过调查和统计的方式，针对健康、教育、政治参与和经济平等四个领域的全球各国性别差距缩小能力进行的综合评估报告
-* [2006全球性别差距报告]()
-* [2007全球性别差距报告]()
-* [2008全球性别差距报告]()
-* [2009全球性别差距报告]()
-* [2010全球性别差距报告]()
-* [2011全球性别差距报告]()
-* [2012全球性别差距报告]()
-* [2013全球性别差距报告]()
-* [2014全球性别差距报告]()
-* [2015全球性别差距报告]()
-* [2016全球性别差距报告]()
-* [2017全球性别差距报告]()
-* [2018全球性别差距报告]()
-* [2019全球性别差距报告]()
+* [2006全球性别差距报告](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/2006.pdf)
+* [2007全球性别差距报告](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/2007.pdf)
+* [2008全球性别差距报告](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/2008.pdf)
+* [2009全球性别差距报告](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/2009.pdf)
+* [2010全球性别差距报告](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/2010.pdf)
+* [2011全球性别差距报告](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/2011.pdf)
+* [2012全球性别差距报告](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/2012.pdf)
+* [2013全球性别差距报告](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/2013.pdf)
+* [2014全球性别差距报告](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/2014.pdf)
+* [2015全球性别差距报告](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/2015.pdf)
+* [2016全球性别差距报告](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/2016.pdf)
+* [2017全球性别差距报告](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/2017.pdf)
+* [2018全球性别差距报告](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/2018.pdf)
+* [2019全球性别差距报告](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/2019.pdf)
 
 #### 打破桎梏：全面参与报告（No Ceilings: The Full Participation Project）
 > 由比尔及梅林达·盖茨基金支持，对两性在卫生、安全、教育、合法权利、经济机会、领导领域的发展情况进行数据可视化的项目，以报告、交互网站、以及原始数据呈现
 * [网站](http://www.noceilings.org/map/)
 * [原始数据](https://github.com/fathominfo/noceilings-data)
-* [中文报告]()
+* [中文报告-摘要](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/nocelling-highlights-zh.pdf)
+* [中文报告-全文](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/noceiling-report-zh.pdf)
 
 ### 社会生活-性别
 
@@ -96,9 +97,16 @@
 #### 联合国-关于男性与暴力的多国研究（(UN Multi-county Study on Men and Violence）
 > 为了解暴力背后的原因，并找到防止暴力更为有效的方法，联合国开发计划署（UNDP）联合国人口基金（UNFPA），联合国妇女署（UN-Women）及地方志愿组织机构在孟加拉国、柬埔寨、中国、印度尼西亚、斯里兰卡和巴布亚新几内亚开展了地区相关定量化研究
 * [项目官网](http://www.partners4prevention.org/about-prevention/research/men-and-violence-study#slide-8-field_images-379)
+* [中国地区报告-定量](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/%E3%80%90%E5%AE%9A%E9%87%8F%E3%80%91%E4%B8%AD%E5%9B%BD%E6%80%A7%E5%88%AB%E6%9A%B4%E5%8A%9B%E5%92%8C%E7%94%B7%E6%80%A7%E6%B0%94%E8%B4%A8%E7%A0%94%E7%A9%B6%E5%AE%9A%E9%87%8F%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A.pdf)
+* [中国地区报告-定性](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/%E3%80%90%E5%AE%9A%E6%80%A7%E3%80%91%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%8F%98%E8%BF%81%E4%B8%AD%E7%9A%84%E7%94%B7%E6%80%A7%E6%B0%94%E8%B4%A8%E4%B8%8E%E6%80%A7%E5%88%AB%E6%9A%B4%E5%8A%9B.pdf)
 
 #### 相关案件媒体报道合集
-> 
+> 近年来，从世界范围内广泛传播的「#MeToo」打破沉默开始，到日本揭开“黑箱”的伊藤诗织赢得胜诉，再到上海财经大学3天内回应通报的零容忍态度，整个社会正在逐渐重视和正视性骚扰议题。下方我们汇集了各方整理的相关案例合集，以供参考。
+* [合集1](https://github.com/NGOMeToo/MeTooinChinaArchives)
+* [合集2](https://github.com/Sexual-Assault-Protect/METOO-China)
+* [合集3](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/%E9%AB%98%E6%A0%A1.pdf)
+* [合集4](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/%E8%81%8C%E5%9C%BA-%E8%AE%B0%E8%80%85.pdf)
+
 
 
 
