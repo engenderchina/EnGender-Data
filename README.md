@@ -100,6 +100,9 @@
 * [中国地区报告-定量](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/%E3%80%90%E5%AE%9A%E9%87%8F%E3%80%91%E4%B8%AD%E5%9B%BD%E6%80%A7%E5%88%AB%E6%9A%B4%E5%8A%9B%E5%92%8C%E7%94%B7%E6%80%A7%E6%B0%94%E8%B4%A8%E7%A0%94%E7%A9%B6%E5%AE%9A%E9%87%8F%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A.pdf)
 * [中国地区报告-定性](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/%E3%80%90%E5%AE%9A%E6%80%A7%E3%80%91%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%8F%98%E8%BF%81%E4%B8%AD%E7%9A%84%E7%94%B7%E6%80%A7%E6%B0%94%E8%B4%A8%E4%B8%8E%E6%80%A7%E5%88%AB%E6%9A%B4%E5%8A%9B.pdf)
 
+#### 相关学术调查报告
+* [黄盈盈、潘绥铭：中国的性骚扰有多严重？](https://www.guancha.cn/HuangYingYing/2018_01_17_443450.shtml)
+
 #### 相关案件媒体报道合集
 > 近年来，从世界范围内广泛传播的「#MeToo」打破沉默开始，到日本揭开“黑箱”的伊藤诗织赢得胜诉，再到上海财经大学3天内回应通报的零容忍态度，整个社会正在逐渐重视和正视性骚扰议题。下方我们汇集了各方整理的相关案例合集，以供参考。
 * [合集1](https://github.com/NGOMeToo/MeTooinChinaArchives)
