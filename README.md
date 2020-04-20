@@ -100,6 +100,10 @@
 * [中国地区报告-定量](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/%E3%80%90%E5%AE%9A%E9%87%8F%E3%80%91%E4%B8%AD%E5%9B%BD%E6%80%A7%E5%88%AB%E6%9A%B4%E5%8A%9B%E5%92%8C%E7%94%B7%E6%80%A7%E6%B0%94%E8%B4%A8%E7%A0%94%E7%A9%B6%E5%AE%9A%E9%87%8F%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A.pdf)
 * [中国地区报告-定性](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/%E3%80%90%E5%AE%9A%E6%80%A7%E3%80%91%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E5%8F%98%E8%BF%81%E4%B8%AD%E7%9A%84%E7%94%B7%E6%80%A7%E6%B0%94%E8%B4%A8%E4%B8%8E%E6%80%A7%E5%88%AB%E6%9A%B4%E5%8A%9B.pdf)
 
+#### 世界卫生组织-暴力对待妇女行为的全球及区域概况
+> 在（以伴侣暴力和非伴侣性暴力这两种形式）暴力对待妇女的流行情况方面，存在大量科学的数据。世界卫生组织、伦敦卫生与热带医学院、南非医学研究理事会共同撰写了此报告，这是全球首次对这些既有数据进行系统性回顾和综述。报告利用系统性的全球人口数据，首次整合了这两种暴力形式在全球和区域的流行情况。报告还详述了暴力对妇女身体、性、生殖和精神卫生造成的影响。
+* [项目官网](https://www.who.int/reproductivehealth/publications/violence/9789241564625/zh/)
+
 #### 相关学术调查报告
 * [黄盈盈、潘绥铭：中国的性骚扰有多严重？](https://www.guancha.cn/HuangYingYing/2018_01_17_443450.shtml)
 
