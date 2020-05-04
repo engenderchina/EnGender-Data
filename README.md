@@ -86,8 +86,14 @@
 * [项目官网](https://data.ipu.org/compare?field=chamber%3A%3Acurrent_women_percent&structure=any__lower_chamber#map)
 * [报告汇总](http://archive.ipu.org/wmn-e/classif.htm)
 
-#### COVID19疫情防控中的带有性别视角的文章合集（最后更新时间：2020.3）
-* [合集页面](https://data2x.org/resource-center/gender-and-data-resources-related-to-covid-19/)
+#### 全球媒体监测项目（Global Media Monitoring Project）
+> 全球媒体监测项目是世界媒体中规模最大、历时最长的性别纵向研究项目。这也是世界上最大的关于改变媒体中妇女代表的倡议。自1995年以来，全球媒体监测研究每5年对新闻媒体中选定的性别指标进行一次检测，研究女性与男性之间的关系、性别偏见和新闻媒体内容中的刻板印象。该系列的第五项研究是在2015年由来自世界114个国家的数百名志愿者进行的。
+* [项目官网](http://whomakesthenews.org/gmmp)
+* [报告汇总](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/GMMP.rar)
+
+#### COVID19疫情防控-性别视角
+* [文章合集页面（最后更新时间：2020.3）](https://data2x.org/resource-center/gender-and-data-resources-related-to-covid-19/)
+* [按性别分类的数据报告](https://globalhealth5050.org/covid19/)
 
 #### “江山娇”原始微博问题合集（持续更新）
 * [合集页面](http://www.askjiang.com/)
@@ -171,7 +177,7 @@
 #### 电影数据
 * [爱奇艺指数](https://index.iqiyi.com/)
 * [Bilibili（弹幕、评论）](https://www.bilibili.com/)
-* [IMBD（评分）](https://www.imdb.com/)
+* [IMBD（评分）](https://www.imdb.com/interfaces/)
 
 #### 新媒体平台指数
 * [百度指数](http://index.baidu.com/v2/index.html#/)
