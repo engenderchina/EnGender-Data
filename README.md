@@ -197,6 +197,8 @@
 #### 政界数据
 * [人民网-地方领导资料库](http://ldzl.people.com.cn/dfzlk/front/firstPage.htm)
 * [各国议会联盟（IPU）](https://data.ipu.org/)
+* [全国人民代表大会数据库](http://data.people.com.cn/pd/qgrmdbdh/list.html?qs={%22cId%22:55,%22cds%22:[{%22cdr%22:%22AND%22,%22fld%22:%22class1%22,%22val%22:%22%E5%8E%86%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%22}]}&id=2258&index=1)
+* [人民网数据库](http://data.people.com.cn/publish/_s1/0819.html)
 
 #### 业界数据
 * [脉脉](maimai.cn)
