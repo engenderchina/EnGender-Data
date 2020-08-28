@@ -7,8 +7,6 @@
 | 发起机构 | 网址 | 联系方式 |
 | ------------- |:-------------:|:-------------:| 
 | 后生价值EnGender | engenderchina.com | info@engenderchina.com |
-| 新经济发展研究院INED | ined.com | info@inedcn.com |
-| 数据城堡DataCastle | pkbigdata.com | service@datacastle.cn |
 
 ![alt text](https://github.com/engenderchina/EnGender-Data/blob/master/%E6%9C%BA%E6%9E%84%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
@@ -102,6 +100,10 @@
 > 全球媒体监测项目是世界媒体中规模最大、历时最长的性别纵向研究项目。这也是世界上最大的关于改变媒体中妇女代表的倡议。自1995年以来，全球媒体监测研究每5年对新闻媒体中选定的性别指标进行一次检测，研究女性与男性之间的关系、性别偏见和新闻媒体内容中的刻板印象。该系列的第五项研究是在2015年由来自世界114个国家的数百名志愿者进行的。
 * [项目官网](http://whomakesthenews.org/gmmp)
 * [报告汇总](https://github.com/engenderchina/EnGender-Data/blob/master/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/GMMP.rar)
+
+#### 面向儿童青少年的家庭电视节目刻板印象评估（Geena Davis Inclusion Quotient）
+> 通过分析面向儿童和青少年的家庭电视作品中，性别、性向、种族、残疾、年龄、身材等因素在角色中的出现比例，说话时长，性格特征，及外貌特征，来判断相关电视节目是否带有偏见。
+* [项目研究汇总](https://seejane.org/research-informs-empowers/)
 
 #### COVID19疫情防控-性别视角
 * [文章合集页面（最后更新时间：2020.3）](https://data2x.org/resource-center/gender-and-data-resources-related-to-covid-19/)
