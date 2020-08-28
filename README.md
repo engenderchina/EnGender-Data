@@ -8,7 +8,6 @@
 | ------------- |:-------------:|:-------------:| 
 | 后生价值EnGender | engenderchina.com | info@engenderchina.com |
 
-![alt text](https://github.com/engenderchina/EnGender-Data/blob/master/%E6%9C%BA%E6%9E%84%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
 ## 性别数据
 
